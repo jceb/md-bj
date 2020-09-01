@@ -8,7 +8,7 @@ This is a simple table to document my way of writing a [Bullet Journal](https://
 | Task complete        | `x task`               | `- [x] task`         |
 | Task migrated to collection        | `> task`               | `- [>] task`         |
 | Task scheduled in future log        | `< task`               | `- [<] task`         |
-| Task irrelevant        | ~~`- task`~~               | `- [-] task`         |
+| Task irrelevant        | ~~`- task`~~               | `- [-] ~~task~~`         |
 | Notes        | `- note`               | `- note`         |
 | Events        | `○ event`               | `- (E) event`         |
 | Signifier Priority        | `* ○ event`               | `○ <*> event`         |
@@ -20,7 +20,7 @@ This is a simple table to document my way of writing a [Bullet Journal](https://
 - [x] task complete
 - [>] task migrated to collection
 - [<] task scheduled in future log
-- [-] task irrelevant
+- [-] ~~task irrelevant~~
 - note
 - (E) event
 - <$> note prioritized
