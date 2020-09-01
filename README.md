@@ -29,6 +29,6 @@ This is a simple table to document my way of writing a [Bullet Journal](https://
 # References
 
 - [Bullet Journal](https://bulletjournal.com/)
-- [Markdown](https://daringfireball.net/projects/markdown/
+- [Markdown](https://daringfireball.net/projects/markdown/)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [markdown-bullet-journal](https://github.com/dballard/markdown-bullet-journal)
