@@ -11,8 +11,8 @@ This is a simple table to document my way of writing a [Bullet Journal](https://
 | Task irrelevant        | ~~`- task`~~               | `- [-] ~~task~~`         |
 | Notes        | `- note`               | `- note`         |
 | Events        | `○ event`               | `- (E) event`         |
-| Signifier Priority        | `* ○ event`               | `○ <*> event`         |
-| Signifier Inspiration        | `! ○ event`               | `○ <!> event`         |
+| Signifier Priority        | `* ○ note`               | `- <$> note`         |
+| Signifier Inspiration        | `! ○ note`               | `- <!> note`         |
 
 ## Rendered Markdown
 
